@@ -48,6 +48,7 @@ public:
         AUTOROTATE  = 26,
         AUTO_RTL    = 27,
         TURTLE      = 28,
+        TITANLOCK   = 29,
     };
 
     APMCopterMode(uint32_t mode, bool settable);
